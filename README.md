@@ -1,4 +1,4 @@
-# ABC-Employee-Analysis
+# ABC Company Employee Dataset Analysis
 This repository contains a dataset of employees working in ABC Company. The dataset consists of employee details, including employee ID, name, position, age, salary, team, and other relevant information. The dataset provides insights into the workforce composition and distribution within the company.
 
 ## Project Goals
